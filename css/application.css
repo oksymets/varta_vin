@@ -321,8 +321,8 @@ img {
     .header-text-wrapper {
       top: 40px  } }
   @media (max-width: 400px) {
-      .header-text-wrapper {
-        top: 30px; } }
+    .header-text-wrapper {
+      top: 20px; } }
 
                                             /*СТИЛІ ДЛЯ H1*/
 .top-cover h1 {
