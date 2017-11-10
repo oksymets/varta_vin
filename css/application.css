@@ -357,6 +357,15 @@ img {
     .sub {
       font-size: 1.3em;
       margin-top: 10px;  } }
+  @media (max-width: 320px) {
+    .top-cover h1 {
+      font-size: 1.3em;
+      margin-bottom: 10px }
+    .sub {
+      font-size: 1.1em;
+      margin-top: 10px;  }
+    .top-cover {
+      margin-bottom: 0; }}
 
 
 
